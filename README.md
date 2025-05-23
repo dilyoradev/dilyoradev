@@ -18,5 +18,5 @@
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilyoradev&label=Profile%20views&color=0e75b6&style=flat" alt="dilyoradev" /> </p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilyoradev&layout=compact&bg_color=#A9A9A9&theme=default" alt="Most Used Languages">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilyoradev&layout=compact&bg_color=eeeeee" alt="Most Used Languages">
 
