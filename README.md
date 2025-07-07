@@ -8,8 +8,8 @@
 🎨 Building my digital world one pixel and one algorithm at a time
 </pre>
 <br><br>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJhc2VveTl4ZmQ4MjdyZGN6M3RxeGhva3JqNjJ6Nno5Yml6MXF2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j7k6JOp8LufhXspVfu/giphy.gif" height="180" />
-<br><br><br>
+<!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJhc2VveTl4ZmQ4MjdyZGN6M3RxeGhva3JqNjJ6Nno5Yml6MXF2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j7k6JOp8LufhXspVfu/giphy.gif" height="180" />
+<br><br><br> -->
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/dilyorakhon-a-b6a449219/)
 [![](https://img.shields.io/badge/kaggle-6364ff)](https://www.kaggle.com/dilyoradev)
