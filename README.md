@@ -11,10 +11,10 @@
 <!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJhc2VveTl4ZmQ4MjdyZGN6M3RxeGhva3JqNjJ6Nno5Yml6MXF2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j7k6JOp8LufhXspVfu/giphy.gif" height="180" />
 <br><br><br> -->
     
-[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/dilyorakhon-a-b6a449219/)
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/dilyorakhon-akramjonova-b6a449219/)
 [![](https://img.shields.io/badge/kaggle-6364ff)](https://www.kaggle.com/dilyoradev)
 [![](https://img.shields.io/badge/hackerrank-32CD32	)](https://www.hackerrank.com/profile/dilyoradev)
-[![](https://img.shields.io/badge/instagram-ff66ab)](https://www.instagram.com/dilyora.akr/?next=%2F)
+[![](https://img.shields.io/badge/instagram-ff66ab)](https://www.instagram.com/yora.akr/?next=%2F)
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilyoradev&label=Profile%20views&color=0e75b6&style=flat" alt="dilyoradev" /> </p>
