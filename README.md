@@ -5,7 +5,8 @@
 🎓 BASc @Okadai
 💻 Lead @GDGoCOkadai 
 🧠 Currently casting spells in Python • JS • DSA
-🎨 Building my digital world one pixel and one algorithm at a time
+🎨 Building my digital world one pixel and one algorithm at a time 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRhNHhiNGZqcmttMXR4cjE1NHowcXpnaTFzem5mcG4xNWt1ZWE1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/W08dOl6ADn8tytAj83/giphy.gif" height="100">
 </pre>
 <br><br>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWV0OHcweGF5cGIybTZkMTZ5ZTNhZmlwMzd5dXQyNmgwdnlkZzh6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZcpIqZmKqS0QjS95CM/giphy.gif" height="180">
