@@ -6,9 +6,8 @@
 💻 Founder / Lead @GDGoCOkadai 
 🧠 Currently casting spells in Python • JS • DSA
 🎨 Building my digital world one pixel and one algorithm at a time 
+ 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWV0OHcweGF5cGIybTZkMTZ5ZTNhZmlwMzd5dXQyNmgwdnlkZzh6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZcpIqZmKqS0QjS95CM/giphy.gif" height="180">
-<!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2p1cmpmcG5hZGpmNnB4bzlpeGgxb3RjOXRtNmUwbGF3OGM4dHN4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/NMDMwjygzUet6r7QXq/giphy.gif" height="180"> -->
-<!-- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRhNHhiNGZqcmttMXR4cjE1NHowcXpnaTFzem5mcG4xNWt1ZWE1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/W08dOl6ADn8tytAj83/giphy.gif" height="200"> -->
 </pre>
 
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/dilyorakhon-akramjonova-b6a449219/)
@@ -20,3 +19,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilyoradev&label=Profile%20views&color=0e75b6&style=flat" alt="dilyoradev" /> </p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilyoradev&layout=compact&bg_color=eeeeee" alt="Most Used Languages">
 
+<!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2p1cmpmcG5hZGpmNnB4bzlpeGgxb3RjOXRtNmUwbGF3OGM4dHN4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/NMDMwjygzUet6r7QXq/giphy.gif" height="180"> -->
+<!-- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRhNHhiNGZqcmttMXR4cjE1NHowcXpnaTFzem5mcG4xNWt1ZWE1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/W08dOl6ADn8tytAj83/giphy.gif" height="200"> -->
