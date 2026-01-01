@@ -3,7 +3,8 @@
 <br><br>
 <pre>
 🎓 BASc @Okadai
-💻 Founder / Lead @GDGoCOkadai 
+💻 Founder / Lead @GDGoCOkadai
+🩰 SWE Intern
 🧠 Currently casting spells in Python • JS • DSA
 🎨 Building my digital world one pixel and one algorithm at a time 
  
