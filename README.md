@@ -6,7 +6,7 @@
 🎓 BASc @Okadai
 💻 Founder / Lead @GDGoCOkadai
 <details>
- <summary>🩰</summary>
+ <summary>🏰</summary>
 🧠 Currently casting spells in Python • JS • DSA
 🎨 Building my digital world one pixel and one algorithm at a time
 </details> 
