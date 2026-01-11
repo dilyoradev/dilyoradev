@@ -5,8 +5,11 @@
 🩰 SWE Intern
 🎓 BASc @Okadai
 💻 Founder / Lead @GDGoCOkadai
+<details>
+ <summary>🩰</summary>
 🧠 Currently casting spells in Python • JS • DSA
-🎨 Building my digital world one pixel and one algorithm at a time 
+🎨 Building my digital world one pixel and one algorithm at a time
+</details> 
  
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWV0OHcweGF5cGIybTZkMTZ5ZTNhZmlwMzd5dXQyNmgwdnlkZzh6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZcpIqZmKqS0QjS95CM/giphy.gif" height="180">
 </pre>
