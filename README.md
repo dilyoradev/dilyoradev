@@ -34,6 +34,6 @@
 #### 📰 Read The Article [Here](https://www.sankei.com/article/20250925-SRB25VFHPNBQ5L4ASSDTFASTDA/)
 
 #### 🎥 Watch The Video Below:
-[![Watch the video](https://img.youtube.com/vi/lP1hAT7BOTw/0.jpg)](https://www.youtube.com/lP1hAT7BOTw)
+[![Watch the video](https://img.youtube.com/vi/lP1hAT7BOTw/0.jpg)](https://youtu.be/lP1hAT7BOTw?si=CwkYLmpYDbO20NX4)
 
 
