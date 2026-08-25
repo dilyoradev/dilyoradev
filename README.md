@@ -21,7 +21,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-F2A2C0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilyorakhon-akramjonova-b6a449219/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-F2A2C0?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dilyoradev)
 [![HackerRank](https://img.shields.io/badge/HackerRank-F2A2C0?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/dilyoradev)
-[![Instagram](https://img.shields.io/badge/Instagram-F2A2C0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yora.akr/)
+[![Instagram](https://img.shields.io/badge/Instagram-F2A2C0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dilyora.akr/)
 
 <img src="https://komarev.com/ghpvc/?username=dilyoradev&label=Profile%20Views&color=f2a2c0&style=for-the-badge" alt="profile views"/>
 
